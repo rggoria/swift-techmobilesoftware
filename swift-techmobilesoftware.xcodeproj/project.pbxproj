@@ -46,7 +46,7 @@
 		AFA1BB5627E76F0C002BF0B8 = {
 			isa = PBXGroup;
 			children = (
-				AFA1BB6127E76F0C002BF0B8 /* FinalProject1 */,
+				AFA1BB6127E76F0C002BF0B8 /* swift-techmobilesoftware */,
 				AFA1BB6027E76F0C002BF0B8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,7 +59,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		AFA1BB6127E76F0C002BF0B8 /* FinalProject1 */ = {
+		AFA1BB6127E76F0C002BF0B8 /* swift-techmobilesoftware */ = {
 			isa = PBXGroup;
 			children = (
 				AFA1BB6227E76F0C002BF0B8 /* AppDelegate.swift */,
@@ -73,7 +73,7 @@
 				AF7A1CB927EBF589004BB47B /* Item.swift */,
 				AF7A1CBD27EC06B6004BB47B /* PokeballViewController.swift */,
 			);
-			path = FinalProject1;
+			path = "swift-techmobilesoftware";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -301,7 +301,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = P9F95AAR7C;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FinalProject1/Info.plist;
+				INFOPLIST_FILE = "swift-techmobilesoftware/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -312,7 +312,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Swift-Playground.FinalProject1";
+				PRODUCT_BUNDLE_IDENTIFIER = "Swift-Playground.swift-techmobilesoftware";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -329,7 +329,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = P9F95AAR7C;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = FinalProject1/Info.plist;
+				INFOPLIST_FILE = "swift-techmobilesoftware/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -340,7 +340,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Swift-Playground.FinalProject1";
+				PRODUCT_BUNDLE_IDENTIFIER = "Swift-Playground.swift-techmobilesoftware";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
