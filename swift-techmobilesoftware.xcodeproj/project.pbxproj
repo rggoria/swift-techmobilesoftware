@@ -22,7 +22,7 @@
 		AF7A1CB527EBE53B004BB47B /* PokeballTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeballTableViewController.swift; sourceTree = "<group>"; };
 		AF7A1CB927EBF589004BB47B /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		AF7A1CBD27EC06B6004BB47B /* PokeballViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokeballViewController.swift; sourceTree = "<group>"; };
-		AFA1BB5F27E76F0C002BF0B8 /* FinalProject1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalProject1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFA1BB5F27E76F0C002BF0B8 /* swift-techmobilesoftware.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift-techmobilesoftware.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFA1BB6227E76F0C002BF0B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFA1BB6427E76F0C002BF0B8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		AFA1BB6627E76F0C002BF0B8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		AFA1BB6027E76F0C002BF0B8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AFA1BB5F27E76F0C002BF0B8 /* FinalProject1.app */,
+				AFA1BB5F27E76F0C002BF0B8 /* swift-techmobilesoftware.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -79,9 +79,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		AFA1BB5E27E76F0C002BF0B8 /* FinalProject1 */ = {
+		AFA1BB5E27E76F0C002BF0B8 /* swift-techmobilesoftware */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AFA1BB7327E76F0D002BF0B8 /* Build configuration list for PBXNativeTarget "FinalProject1" */;
+			buildConfigurationList = AFA1BB7327E76F0D002BF0B8 /* Build configuration list for PBXNativeTarget "swift-techmobilesoftware" */;
 			buildPhases = (
 				AFA1BB5B27E76F0C002BF0B8 /* Sources */,
 				AFA1BB5C27E76F0C002BF0B8 /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = FinalProject1;
+			name = "swift-techmobilesoftware";
 			productName = FinalProject1;
-			productReference = AFA1BB5F27E76F0C002BF0B8 /* FinalProject1.app */;
+			productReference = AFA1BB5F27E76F0C002BF0B8 /* swift-techmobilesoftware.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = AFA1BB5A27E76F0C002BF0B8 /* Build configuration list for PBXProject "FinalProject1" */;
+			buildConfigurationList = AFA1BB5A27E76F0C002BF0B8 /* Build configuration list for PBXProject "swift-techmobilesoftware" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +124,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				AFA1BB5E27E76F0C002BF0B8 /* FinalProject1 */,
+				AFA1BB5E27E76F0C002BF0B8 /* swift-techmobilesoftware */,
 			);
 		};
 /* End PBXProject section */
@@ -351,7 +351,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		AFA1BB5A27E76F0C002BF0B8 /* Build configuration list for PBXProject "FinalProject1" */ = {
+		AFA1BB5A27E76F0C002BF0B8 /* Build configuration list for PBXProject "swift-techmobilesoftware" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AFA1BB7127E76F0D002BF0B8 /* Debug */,
@@ -360,7 +360,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AFA1BB7327E76F0D002BF0B8 /* Build configuration list for PBXNativeTarget "FinalProject1" */ = {
+		AFA1BB7327E76F0D002BF0B8 /* Build configuration list for PBXNativeTarget "swift-techmobilesoftware" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				AFA1BB7427E76F0D002BF0B8 /* Debug */,
