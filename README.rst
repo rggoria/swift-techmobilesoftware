@@ -5,7 +5,7 @@ Introduction
 This project is a mobile-based system called Simple Pokemon Trivia Guide, designed
 to provide information about selected Pokemon, trainers, and items featured in the
 Pokemon Sword and Shield series. It was created as the final project requirement
-for the Mobile Application 2 course."
+for the Mobile Application Development 2 course."
 
 *******************
 Technologies Used
